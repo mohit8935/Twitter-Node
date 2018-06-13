@@ -1,0 +1,2 @@
+git remote add origin https://github.com/mohit8935/Twitter-Node.git
+git push -u origin master
