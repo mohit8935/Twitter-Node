@@ -9,8 +9,10 @@
   "author": "Mohit Nihalani",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^6.0.0",
     "twit": "^2.2.10",
     "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "dotenv": "^6.0.0"
   }
 }
